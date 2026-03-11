@@ -308,3 +308,15 @@ p {
 	text-align: left;
 }
 /* end of footer */
+
+/* Lần 3: feature section */
+#features {
+    padding: 20px;
+    background: #fff;
+}
+#features h2 {
+    margin-bottom: 10px;
+}
+#features ul {
+    list-style: disc inside;
+}
